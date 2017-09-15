@@ -1,8 +1,8 @@
-Videos and Questions
+Self Study Videos 
 
 # UDP
 
-[UDP vs TCP](https://www.youtube.com/watch?v=Vdc8TCESIg8)
++ [UDP vs TCP](https://www.youtube.com/watch?v=Vdc8TCESIg8)
 
 
 # Quick recaps on IP ADDRESSES 
