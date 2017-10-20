@@ -13,6 +13,7 @@ http://www.8bitavenue.com/2012/10/difference-between-multiprogramming-multitaski
     + User level threads are handled by an applicaton library - can't run concurrently, very lightweight in regards to memory, contex switch without high overhead If however blocking system call is called which blocks the all process, this does not work well
     + Kernel level threads are handled by the kernel (exactly like processes, but in a different table) can take advantage of multiprocessing, need more memory , context switch is expensive.
 3. [Comparison as table](http://www.geeksforgeeks.org/operating-system-user-level-thread-vs-kernel-level-thread/)
+4. [Thread memory sharing](https://stackoverflow.com/questions/41632073/do-threads-share-local-variables)
 
 
 
