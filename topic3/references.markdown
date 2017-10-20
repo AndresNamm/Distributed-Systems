@@ -14,6 +14,7 @@ http://www.8bitavenue.com/2012/10/difference-between-multiprogramming-multitaski
     + Kernel level threads are handled by the kernel (exactly like processes, but in a different table) can take advantage of multiprocessing, need more memory , context switch is expensive.
 3. [Comparison as table](http://www.geeksforgeeks.org/operating-system-user-level-thread-vs-kernel-level-thread/)
 4. [Thread memory sharing](https://stackoverflow.com/questions/41632073/do-threads-share-local-variables)
+5. [Process memory distribution](https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/in-memory-layout/)
 
 
 
